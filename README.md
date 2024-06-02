@@ -1,3 +1,3 @@
 # Wazwki
 
-Hi, i'am python backend developer
+Hi, i'am backend developer
